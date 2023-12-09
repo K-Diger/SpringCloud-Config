@@ -1,5 +1,6 @@
 spring:
   datasource:
-    uri: myEnvironment
-    username: root
-    password: password
+    driver-class-name: {cipher}c94a1c3ee8653934f9b05d0a70317520f22b2ae298672a72a260611e66d78e95228d059b9c08f8558e9cab3a6c77c0da
+    url: {cipher}e3f12bd479425b32b317c456751d47462821eac022c01c12d29e4c07577bc433589674a3df9eaf2c156793b82169fbe2fd0b7d4b9b5536f290debd8bd8093663
+    username: {cipher}824fef3f41a760cd4b83a653175b679bb6bb87b18875d25aa7f5e452db88c415
+    password: {cipher}c7b019361c9f39f058bab6cdbd4a6e70ed7ed19d52a26850d092fa7e9765540e
